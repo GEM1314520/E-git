@@ -4,5 +4,6 @@ public class Test5 {
   int b=10;
 
  int d=666;
+  String ss="ÃÀÅ®"
   }
 }
