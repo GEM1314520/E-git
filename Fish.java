@@ -1,8 +1,5 @@
-public class Test5 {
+﻿public class Test5 {
   public static void main(String[] args) {
-	  
-  int b=10;
-
- int d=666;
+	  int mm=18;
   }
 }
